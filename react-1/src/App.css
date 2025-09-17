@@ -1,0 +1,14 @@
+.app.light {
+    --bg: #ffffff;
+    --fg: #000000;
+}
+
+.app.dark {
+    --bg: #000000;
+    --fg: #ffffff;
+}
+
+.app {
+    background: var(--bg);
+    color: var(--fg);
+}

@@ -1,0 +1,20 @@
+.fotter {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    gap: 140px;
+    align-items: center;
+    padding: 0px 70px; 
+
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+}

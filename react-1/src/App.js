@@ -7,7 +7,7 @@ import Products from './cpmponants/products.js';
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter cassName="App ${theme}"> 
       <Nav/>
       <Routes>
         <Route path='/' Component={Home}></Route>

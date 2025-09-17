@@ -1,0 +1,20 @@
+.products {
+    text-align: center;
+}
+
+.products img {
+    width: 500px;
+    height: 400px;
+    padding: 20px;
+}
+
+.btn_show {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
