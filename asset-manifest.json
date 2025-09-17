@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-1/static/css/main.4265143a.css",
+    "main.js": "/React-1/static/js/main.3f944049.js",
+    "static/js/453.358a1bd2.chunk.js": "/React-1/static/js/453.358a1bd2.chunk.js",
+    "static/media/T3 Smartwatch Advertising Video.mp4": "/React-1/static/media/T3 Smartwatch Advertising Video.2373042940dfef99260d.mp4",
+    "index.html": "/React-1/index.html",
+    "main.4265143a.css.map": "/React-1/static/css/main.4265143a.css.map",
+    "main.3f944049.js.map": "/React-1/static/js/main.3f944049.js.map",
+    "453.358a1bd2.chunk.js.map": "/React-1/static/js/453.358a1bd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4265143a.css",
+    "static/js/main.3f944049.js"
+  ]
+}
