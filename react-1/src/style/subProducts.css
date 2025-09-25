@@ -1,0 +1,25 @@
+.subProducts {
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+    padding: 0px 70px;
+    align-items: center;
+    gap: 10px;
+}
+
+.subProducts img { 
+    width: 600px;
+    height: 400px;
+    margin: 10px;
+}
+
+.btn-back a {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.btn-back {
+    margin-top: 20px;
+}
