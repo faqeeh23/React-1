@@ -10,11 +10,11 @@ export default function Nav() {
     , [theme])
     return (
         <div className="nav">
-            <h1>Store</h1>
+            <h1>News</h1>
             <ul>
                 <li><Link to="/">Home</Link></li>
-                <li><Link to="/products">Products</Link></li>
-                <li><Link to="/about">About</Link></li>
+                <li><Link to="/products">Last News</Link></li>
+                <li><Link to="/about">About Ploge</Link></li>
                 <li><Link to="/contact">Contact</Link></li>
                 <li>
                     <button

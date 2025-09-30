@@ -43,7 +43,8 @@
 }
 
 #subProducts ul {
-    display: flex;
+    display: grid;
+    grid-template-columns: auto auto auto;
     justify-content: center;
     text-align: center;
     align-items: center;
@@ -52,6 +53,13 @@
 }
 #subProducts ul li {
     list-style: none;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #ccc;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
 }
 #subProducts img {
     width: 200px;
